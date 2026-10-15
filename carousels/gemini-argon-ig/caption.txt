@@ -1,0 +1,21 @@
+=== INSTAGRAM ===
+Google just opened Gemini 4 Argon to everyone. 🟢
+
+→ Where: the Gemini API in AI Studio and the Gemini platform, Antigravity for AI Ultra, and the Gemini app / AI Mode for Pro and Ultra.
+→ Intro price: $2 per 1M input tokens, $10 per 1M output, cached input 95% off.
+→ After Nov 30: $4 / $20.
+→ 1M unified input-output token limit, #1 on the Vals Index.
+→ Per Google: agentic code submissions in Antigravity up >35%, rollbacks down nearly a third, and it helped refactor Chrome's ~6M-line legacy folder.
+
+Our idea for a solo studio: refactor an app in one pass, run an agent overnight.
+
+Try it before Dec 1. Save this and follow @regularbasisstudio for AI tools that ship.
+
+Source: Google blog, Oct 13, 2026.
+
+#Gemini #GoogleAI #AItools #AIcoding #AIagents #buildinpublic #indiehackers
+
+=== TIKTOK ===
+Gemini 4 Argon is open to everyone, and the intro price ($2 in / $10 out per 1M tokens) ends Nov 30. After that it's $4 / $20. Try it before Dec 1 👀 Follow @regularbasisstudio for more.
+
+#Gemini #GoogleAI #AItools #AIcoding #AIagents #techtok
