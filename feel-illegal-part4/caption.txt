@@ -1,0 +1,15 @@
+5 more GitHub repos that feel illegal to use for free. Part 4.
+
+1. Floci (30.6K★, MIT). A free local AWS emulator. Docker Compose up, no account, no auth token, no feature gates.
+2. Craft Anything (16.1K★, Apache-2.0). An open-source clean-room engine in Rust. Point it at a website, app or game and have an AI agent craft your own version.
+3. Agent Desktop (17.4K★, Apache-2.0). Vercel Labs computer-use CLI. Agents see and operate desktop apps through the OS accessibility tree, not screenshots.
+4. Worktrunk (11.7K★, MIT OR Apache-2.0). A CLI that makes git worktrees as easy as branches, built for running AI agents in parallel. Dual-licensed MIT or Apache-2.0.
+5. Kimi K3 In C (10.8K★, Apache-2.0). A 2.78-trillion-parameter Kimi K3 that the README says runs inference on a single CPU in 8.24 GB of RAM.
+
+The honest part: Floci emulates AWS for local/CI use, not a production cloud. Craft Anything is early alpha. Agent Desktop can read private desktop content, so keep snapshots out of public logs. Worktrunk needs a working git setup. Kimi K3 in C is a research port, and speed depends on your CPU. Try one on a side project first.
+
+Star counts from the GitHub API, checked 2026-11-06.
+
+Know a founder still paying for LocalStack Pro or a computer-use API? Send this to them. Follow for Part 5.
+
+#opensource #github #ai #founders #indiehackers

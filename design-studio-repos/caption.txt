@@ -1,0 +1,16 @@
+Your AI design studio is 6 free repos now.
+
+1. Excalidraw (135.2K★, MIT). A virtual whiteboard for hand-drawn diagrams. Share a link or self-host it.
+2. Theatre.js (12.9K★, Apache-2.0). A motion design editor for the web. Animate DOM, Three.js and generative scenes on a real timeline.
+3. Motion (34.9K★, MIT). A modern animation library for React and JavaScript, the open successor to Framer Motion.
+4. Fabric.js (31.5K★, MIT). A JavaScript canvas library that turns SVG into an editable canvas and back again.
+5. Darktable (13.4K★, GPL-3.0). An open photography workflow app for RAW development, cataloguing and non-destructive edits.
+6. OpenMontage (77.4K★, AGPL-3.0). An open-source agentic video production system with 12 pipelines, from paste-a-video to final cut.
+
+The honest part: Excalidraw's hosted app is free with limits; self-host for full control. Theatre.js and Motion are libraries, not drag-and-drop editors for every designer. Fabric.js is a toolkit you build on. Darktable has a learning curve if you're coming from Lightroom. OpenMontage is AGPL and agentic pipelines still need models or compute you may pay for. Try one before you cancel anything.
+
+Star counts from the GitHub API, checked 2026-11-06.
+
+Save this and follow for Part 2.
+
+#opensource #github #design #motiondesign #founders
